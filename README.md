@@ -22,4 +22,6 @@
     echo "Error correction used: ".$QR->get_ec()."<br />";
     echo "Data mode: ".$QR->get_mode()."<br />";
 
-# To generate SVG, make sure that your autoloader can load classes from the srcSVG folder
+# SVG output:
+
+- To generate SVG, make sure that your autoloader can load classes from the srcSVG folder. Not everything in there is needed.
