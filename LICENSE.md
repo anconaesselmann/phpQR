@@ -1,7 +1,6 @@
 The MIT License (MIT)
 
-Copyright Axel Ancona Esselmann (c) 2016
-www.anconaesselmann.com
+Copyright [Axel Ancona Esselmann](http://www.anconaesselmann.com) (c) 2016
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
