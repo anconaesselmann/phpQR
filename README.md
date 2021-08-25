@@ -6,6 +6,8 @@
 - Supports all versions (1-40) and error correction levels.
 - Allows for manual setting of masks.
 
+[See in action](http://www.anconaesselmann.com/qr)
+
 ## Example Usage for generating PNG output
 
     $QR = new \aae\qr\QrCode($mode, $error_level, $version);
